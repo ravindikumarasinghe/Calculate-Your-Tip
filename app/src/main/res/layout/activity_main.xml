@@ -8,9 +8,11 @@
 
     <TextView
         android:id="@+id/txtTitle"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="189dp"
+        android:layout_height="47dp"
         android:text="Get Your Tip"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
