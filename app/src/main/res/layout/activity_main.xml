@@ -39,6 +39,7 @@
         android:id="@+id/number1"
         android:layout_width="213dp"
         android:layout_height="59dp"
+        android:gravity="center_horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
