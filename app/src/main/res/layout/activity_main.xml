@@ -41,6 +41,7 @@
         android:layout_height="59dp"
         android:gravity="center_horizontal"
         android:inputType="number"
+        android:text=""
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
