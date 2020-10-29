@@ -80,6 +80,7 @@
         android:layout_width="203dp"
         android:layout_height="90dp"
         android:background="#000000"
+        android:gravity="center"
         android:textColor="#FFFFFF"
         android:textSize="24sp"
         android:textStyle="bold"
