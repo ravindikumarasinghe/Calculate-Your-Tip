@@ -21,5 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         b1 = findViewById(R.id.button);
+
+        rs = findViewById(R.id.txtAns);
     }
 }
