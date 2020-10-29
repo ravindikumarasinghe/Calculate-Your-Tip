@@ -26,10 +26,10 @@
 
     <EditText
         android:id="@+id/number1"
-        android:layout_width="250dp"
-        android:layout_height="53dp"
+        android:layout_width="249dp"
+        android:layout_height="58dp"
         android:background="#000000"
-        android:gravity="center_horizontal"
+        android:gravity="center|center_horizontal"
         android:inputType="number|numberDecimal"
         android:text="Bill"
         android:textAlignment="center"
