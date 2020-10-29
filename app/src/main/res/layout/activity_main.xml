@@ -32,7 +32,7 @@
         android:background="#000000"
         android:gravity="center_horizontal"
         android:inputType="number"
-        android:text=""
+        android:text="Bill"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
