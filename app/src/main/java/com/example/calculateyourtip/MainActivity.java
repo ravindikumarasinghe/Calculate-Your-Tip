@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
                 num1 = Float.parseFloat(n1.getText().toString());
                 num2 = Float.parseFloat(n2.getText().toString());
 
-                result = num1+num2;
+                result = num1*(num2/100);
 
                 rs.setText(String.valueOf(result));
 
