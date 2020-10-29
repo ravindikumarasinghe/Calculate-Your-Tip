@@ -33,7 +33,7 @@
         android:inputType="number|numberDecimal"
         android:text="Bill"
         android:textAlignment="center"
-        android:textColor="#FFFFFF"
+        android:textColor="#9C9797"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
