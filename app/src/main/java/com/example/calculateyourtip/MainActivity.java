@@ -32,6 +32,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
 
+                num1 = Float.parseFloat(n1.getText().toString());
+                num2 = Float.parseFloat(n2.getText().toString());
+
+                result = num1+num2;
+
+                rs.setText(String.valueOf(result));
+
             }
         });
     }
