@@ -3,6 +3,7 @@ package com.example.calculateyourtip;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -26,5 +27,12 @@ public class MainActivity extends AppCompatActivity {
 
         n1 = findViewById(R.id.number1);
         n2 = findViewById(R.id.number2);
+
+        b1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+            }
+        });
     }
 }
