@@ -77,9 +77,10 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="166dp"
+        android:layout_height="56dp"
         android:text="CALCULATE"
+        android:textColor="#000000"
         app:backgroundTint="#ECC34B"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
