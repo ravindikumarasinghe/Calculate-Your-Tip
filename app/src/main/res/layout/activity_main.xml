@@ -49,7 +49,7 @@
         android:background="#000000"
         android:gravity="center|center_horizontal"
         android:inputType="number|numberDecimal"
-        android:text="Bill"
+        android:text="Tip percentage"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="20sp"
