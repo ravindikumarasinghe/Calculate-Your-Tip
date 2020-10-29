@@ -4,14 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#FFFFFF"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/txtTitle"
         android:layout_width="189dp"
         android:layout_height="47dp"
-        android:text="Get Your Tip"
         android:gravity="center_horizontal"
+        android:text="Get Your Tip"
         android:textAlignment="center"
         android:textSize="30sp"
         android:textStyle="bold"
