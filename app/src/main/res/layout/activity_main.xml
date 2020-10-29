@@ -25,8 +25,8 @@
 
     <EditText
         android:id="@+id/number1"
-        android:layout_width="213dp"
-        android:layout_height="59dp"
+        android:layout_width="250dp"
+        android:layout_height="53dp"
         android:background="#000000"
         android:gravity="center_horizontal"
         android:inputType="number"
@@ -35,10 +35,10 @@
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.818"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.313" />
+        app:layout_constraintVertical_bias="0.349" />
 
     <TextView
         android:id="@+id/txtTipPer"
