@@ -42,8 +42,22 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        n1.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+            public void onFocusChange(View v, boolean hasFocus) {
+                if (hasFocus)
+                    n1.setHint("");
+                else
+                    n1.setHint("Bill");
+            }
+        });
 
-
-
+        n2.setOnFocusChangeListener(new View.OnFocusChangeListener() {
+            public void onFocusChange(View v, boolean hasFocus) {
+                if (hasFocus)
+                    n2.setHint("");
+                else
+                    n2.setHint("Bill");
+            }
+        });
     }
 }
