@@ -50,7 +50,7 @@
         android:layout_height="57dp"
         android:background="#000000"
         android:gravity="center|center_horizontal"
-        android:hint="Tip percentag"
+        android:hint="Tip percentage"
         android:inputType="number|numberDecimal"
         android:text=""
         android:textAlignment="center"
