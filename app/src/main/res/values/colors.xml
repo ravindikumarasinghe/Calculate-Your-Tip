@@ -8,6 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="darkmagenta">#8B008B</color>
-    <color name="t_text_grey">#808080</color>
+    <color name="_text_grey">#808080</color>
     <color name="buttonyellow">#ECC34B</color>
 </resources>
