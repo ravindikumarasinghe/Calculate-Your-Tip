@@ -55,7 +55,7 @@
         android:text=""
         android:textAlignment="center"
         android:textColor="#9C9797"
-        android:textColorHint="@color/_text_grey"
+        android:textColorHint="@color/text_grey"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
