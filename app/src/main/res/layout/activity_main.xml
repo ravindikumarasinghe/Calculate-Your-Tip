@@ -12,7 +12,7 @@
         android:layout_width="189dp"
         android:layout_height="47dp"
         android:gravity="center_horizontal"
-        android:text="Get Your Tips"
+        android:text="Get Your Tip"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
         android:textSize="30sp"
